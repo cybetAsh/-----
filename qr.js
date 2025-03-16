@@ -78,7 +78,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "𝙰𝙲𝙳-𝙼𝙳",
-thumbnailUrl: "https://i.ibb.co/7NLvnZkq/SulaMd.jpg",
+thumbnailUrl: "https://i.ibb.co/b5zPmvHW/SulaMd.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e ",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -94,7 +94,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "𝙰𝙲𝙳-𝙼𝙳",
-thumbnailUrl: "https://i.ibb.co/7NLvnZkq/SulaMd.jpg",
+thumbnailUrl: "https://i.ibb.co/b5zPmvHW/SulaMd.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e ",
 mediaType: 2,
 renderLargerThumbnail: true,
